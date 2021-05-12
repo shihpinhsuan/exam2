@@ -1,6 +1,6 @@
 1.Set up and run program
 <br>Connect wires like below picture<br>
-![image](https://github.com/shihpinhsuan/exam2/blob/master/IMG_20210512_181100.jpg)
+![image](https://github.com/shihpinhsuan/exam2/blob/master/IMG_20210512_181340.jpg)
     <br>Open a terminal<br>
     
 * `$ git clone https://github.com/shihpinhsuan/exam.git`
